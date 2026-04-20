@@ -22,7 +22,7 @@ export function Footer() {
               Tea Hub
             </div>
             <p style={{ fontFamily: "var(--font-sans)", color: "var(--muted-foreground)", fontSize: 14 }}>
-              A cozy corner for tea lovers in Itahari.
+              A cozy corner for tea lovers in Kakarvitta jhapa.
             </p>
           </div>
           <div style={{ display: "flex", flexWrap: "wrap", gap: 24 }}>
@@ -41,7 +41,7 @@ export function Footer() {
         </div>
         <div style={{ borderTop: "1px solid #e8e0d8", paddingTop: 32, textAlign: "center" }}>
           <p style={{ fontFamily: "var(--font-sans)", fontSize: 13, color: "var(--muted-foreground)" }}>
-            &copy; {new Date().getFullYear()} Tea Hub. All rights reserved. Itahari, Sunsari, Nepal.
+            &copy; {new Date().getFullYear()} Tea Hub. All rights reserved. Kakarvitta jhapa, Sunsari, Nepal.
           </p>
         </div>
       </div>

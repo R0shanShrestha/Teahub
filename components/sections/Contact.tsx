@@ -73,7 +73,7 @@ export function Contact() {
             Come Visit Us
           </h2>
           <p style={{ fontFamily: "var(--font-sans)", color: "rgba(255,255,255,0.6)", fontSize: 18, lineHeight: 1.7 }}>
-            Ready for your perfect cup? Drop by our cozy space in Itahari or message us to place an order.
+            Ready for your perfect cup? Drop by our cozy space in Kakarvitta jhapa or message us to place an order.
           </p>
         </div>
 

@@ -69,7 +69,11 @@ export function Navbar() {
           }}
           onClick={() => scrollTo("home")}
         >
-          Tea Hub
+          {/* Tea Hub */}
+          {/* <img src={"/assets/logo/teahub.png"} alt="Tea Hub Logo" className="w-10 border" /> */}
+          <span>
+            Tea <span style={{ color: "var(--primary)" }} className="font-extrabold">Hub</span>
+          </span>
         </div>
 
         {/* Desktop Nav */}
