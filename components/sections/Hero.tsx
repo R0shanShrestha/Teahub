@@ -133,7 +133,7 @@ export function Hero() {
               flexShrink: 0,
             }}
           />
-          Est. 2024 — Kakarvitta jhapa, Nepal
+          Est. 2024 — Kakarvitta
         </div>
 
         <h1
