@@ -133,7 +133,7 @@ export function Hero() {
               flexShrink: 0,
             }}
           />
-          Est. 0000 — Location, Nepal
+          Est. 2024 — Kakarvitta jhapa, Nepal
         </div>
 
         <h1
@@ -184,12 +184,12 @@ export function Hero() {
         >
           <button
             onClick={() =>
-              window.open("https://wa.me/9779800000000", "_blank")
+              window.open("https://wa.me/9779807960410", "_blank")
             }
             style={{
               display: "inline-flex",
               alignItems: "center",
-              gap: 10,
+              gap: 10,  
               padding: "14px 36px",
               borderRadius: 9999,
               backgroundColor: "#25D366",
