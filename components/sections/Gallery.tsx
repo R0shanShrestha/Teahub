@@ -7,12 +7,12 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 const images = [
-  { src: "/assets/gallery/gallery-1.png", label: "Cozy interiors" },
-  { src: "/assets/gallery/gallery-2.jpg", label: "Tea being poured" },
-  { src: "/assets/gallery/gallery-3.jpg", label: "Happy guests" },
+  { src: "/assets/gallery/gallery-2.png", label: "Cozy interiors" },
+  { src: "/assets/gallery/gallery-6.jpg", label: "Warm evenings" },
+  { src: "/assets/gallery/gallery-1.png", label: "Enterence Gate" },
   { src: "/assets/gallery/gallery-4.jpg", label: "Our selection" },
   { src: "/assets/gallery/gallery-5.jpg", label: "Morning ritual" },
-  { src: "/assets/gallery/gallery-6.jpg", label: "Warm evenings" },
+  { src: "/assets/gallery/gallery-3.png", label: "Happy guests" },
 ];
 
 export function Gallery() {
